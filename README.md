@@ -1,4 +1,4 @@
-## Algoritmos e Práticas de Programação
+## Algoritmos e Lógica de Programação
 
 ### 👩‍💻 Estudante
 - **Leticia Rego de Souza** — RA: 26000282-2
